@@ -12,3 +12,8 @@ chmod +x ftrfcompiler.sh
 cp ftrfcompiler.sh /usr/bin/
 ```
 3. write FTRF code and run the compiler
+```
+touch hello_world.ftrf
+ftrfcompiler.sh
+cargo build
+```
