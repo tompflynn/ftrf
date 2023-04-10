@@ -1,4 +1,4 @@
-# ⚠️ this document and the FTRF compiler are not affilitated with or endorsed by The R-word Foundation™.<br><br>Fuck The R-word Foundation™
+# ⚠️ This document and the FTRF compiler are not affilitated with or endorsed by The R-word Foundation™<br><br>Fuck The R-word Foundation™
 
 FTRF, a new language that compiles to the r-word language
 
